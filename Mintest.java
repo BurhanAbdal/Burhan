@@ -11,5 +11,5 @@ class Mintest {
 		int output=obj.Min(array);
 		assertEquals(1, output);
 	}
-//burhan
+//burhan abdal
 }
